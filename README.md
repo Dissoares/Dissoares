@@ -1,64 +1,124 @@
 # Diego Soares
-**Full Stack Software Engineer**  
-Fortaleza, Ceará, Brazil
+
+### Full Stack Software Engineer
+
+📍 Fortaleza, Ceará - Brasil
 
 ---
 
-## 1) Professional Introduction
-Software engineer focused on designing, building, and sustaining corporate web systems with reliability, scalability, and clear technical structure. My work combines full stack delivery, architecture decisions, and long-term system evolution.
+## Sobre Mim
 
-## 2) About Me
-- B.Sc. in **Systems Analysis and Development**
-- Postgraduate degree in **Software Engineering**
-- Experience in **enterprise software** and **web application architecture**
-- Strong focus on **system stability**, **structural improvements**, and **operational efficiency**
+Engenheiro de Software Full Stack com experiência em desenvolvimento, manutenção e evolução de sistemas corporativos web. Atuo principalmente em aplicações de alta demanda operacional, com foco em estabilidade, integração entre sistemas e melhoria contínua de arquitetura.
 
-## 3) Core Stack
-**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
-**Backend:** Java, Spring Boot, REST APIs, .NET  
-**Databases:** SQL Server, PostgreSQL, MySQL
+Tenho experiência em desenvolvimento frontend e backend, trabalhando com aplicações modernas, APIs REST, manutenção de sistemas legados e estruturação de soluções corporativas.
 
-## 4) Technologies & Tools
+---
+
+## Formação
+
+* Graduado em **Análise e Desenvolvimento de Sistemas**
+* Pós-graduado em **Engenharia de Software**
+
+---
+
+## Stack Principal
+
+### Frontend
+
+* Angular
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+
+### Backend
+
+* Java
+* Spring Boot
+* .NET
+* APIs REST
+
+### Banco de Dados
+
+* SQL Server
+* PostgreSQL
+* MySQL
+
+---
+
+## Tecnologias & Ferramentas
+
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postgres,mysql" />
 </p>
 
-Additional focus: Software Architecture, Clean Code, Responsive Interfaces, Legacy System Support, API Integrations.
+### Outros Conhecimentos
 
-## 5) Currently Studying
-- Technical English for international software environments
-- Continuous improvement in enterprise architecture practices
+* Arquitetura de Software
+* Clean Code
+* Integração entre Sistemas
+* APIs REST
+* Responsividade
+* Manutenção de Sistemas Legados
+* Estruturação de Aplicações Corporativas
 
-## 6) Professional Goals
-- Reach advanced English fluency for global opportunities
-- Keep evolving as an engineer for complex, large-scale corporate systems
+---
 
-## 7) GitHub Statistics
+## Atualmente Estudando
+
+* Arquitetura de Software
+* Backend avançado com Java/Spring
+* Cloud e AWS
+* Inglês técnico para ambiente internacional
+
+---
+
+## Objetivos Profissionais
+
+* Evoluir continuamente como engenheiro de software
+* Fortalecer conhecimentos em arquitetura e sistemas distribuídos
+* Atuar em projetos de alta escala e alta complexidade
+* Buscar oportunidades internacionais no futuro
+
+---
+
+## Estatísticas GitHub
+
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dissoares&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
-## 8) Most Used Languages
+---
+
+## Linguagens Mais Utilizadas
+
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissoares&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-## 9) Featured Projects
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [project-enterprise-core](https://github.com/Dissoares/project-enterprise-core) | Enterprise backend foundation with domain-focused architecture. | Java, Spring Boot, PostgreSQL | In progress |
-| [project-operations-portal](https://github.com/Dissoares/project-operations-portal) | Operational workflow portal with process optimization focus. | Angular, TypeScript, REST APIs | In progress |
-| [project-system-modernization](https://github.com/Dissoares/project-system-modernization) | Legacy-to-modern migration strategy and structural refactoring. | .NET, SQL Server | Planned |
+---
 
-## 10) Contact
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: [your.email@domain.com](mailto:your.email@domain.com)
+## Projetos em Destaque
+
+| Projeto                        | Descrição                                                                                 | Stack                         |
+| ------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------- |
+| Sistema Administrativo Web     | Aplicação corporativa com foco em gestão operacional e organização de processos internos. | Angular, TypeScript, REST API |
+| API Corporativa                | Backend para integração e processamento de regras de negócio corporativas.                | Java, Spring Boot             |
+| Modernização de Sistema Legado | Evolução estrutural e modernização gradual de aplicação corporativa existente.            | .NET, SQL Server              |
 
 ---
-Theme suggestion (minimal and technical): use **dark neutrals** with **discrete blue accents** (`#0D1117`, `#161B22`, `#58A6FF`) and keep badge/icon usage restrained for a clean engineering look.
+
+## Contato
+
+* LinkedIn: [www.linkedin.com/in/diegosoaresdev](http://www.linkedin.com/in/diegosoaresdev)
+* Email: [contato@seudominio.com](mailto:contato@seudominio.com)
+
+
