@@ -104,6 +104,7 @@ Objetivos profissionais:
 
 ## Contato
 
-* LinkedIn: [www.linkedin.com/in/diegosoaresdev](http://www.linkedin.com/in/diegosoaresdev)
-* Email: [contato@seudominio.com](mailto:diegosoaresyt@gmail.com)
-* Insta: [mailto:diegosoaresyt@gmail.com](https://www.instagram.com/di.soares._/)
+* LinkedIn: https://www.linkedin.com/in/diegosoaresdev
+* Email: [diegosoaresyt@gmail.com](mailto:diegosoaresyt@gmail.com)
+* Instagram: https://www.instagram.com/di.soares._/
+
