@@ -8,9 +8,11 @@
 
 ## Sobre Mim
 
-Engenheiro de Software Full Stack com experiência em desenvolvimento, manutenção e evolução de sistemas corporativos web. Atuo principalmente em aplicações de alta demanda operacional, com foco em estabilidade, integração entre sistemas e melhoria contínua de arquitetura.
+Engenheiro de Software Full Stack com mais de 10 anos de experiência em desenvolvimento de software, atuando na construção, manutenção e evolução de sistemas corporativos web.
 
-Tenho experiência em desenvolvimento frontend e backend, trabalhando com aplicações modernas, APIs REST, manutenção de sistemas legados e estruturação de soluções corporativas.
+Experiência sólida em aplicações de alta demanda operacional, integração entre sistemas, manutenção de sistemas legados e desenvolvimento de soluções voltadas para estabilidade, escalabilidade e melhoria contínua da arquitetura.
+
+Atuação tanto no frontend quanto no backend, trabalhando com aplicações modernas, APIs REST, estruturação de sistemas corporativos e otimização de fluxos operacionais.
 
 ---
 
@@ -120,5 +122,4 @@ Tenho experiência em desenvolvimento frontend e backend, trabalhando com aplica
 
 * LinkedIn: [www.linkedin.com/in/diegosoaresdev](http://www.linkedin.com/in/diegosoaresdev)
 * Email: [contato@seudominio.com](mailto:contato@seudominio.com)
-
 
