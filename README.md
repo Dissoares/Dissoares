@@ -96,8 +96,8 @@ Objetivos profissionais:
 
 | Projeto                        | Descrição                                                                                 | Stack                         |
 | ------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------- |
-| GEstack - Sistema Administrativo Web | Aplicação corporativa com foco em gestão e organização de equipes internas. | Angular, TypeScript, REST API |
-| TSP - Termo de solicitação primária | Aplicação para gerenciamento de solicitações de demandas de equipes internas|  Angular, Spring Boot, PostgresSql |
+| GEstack - Sistema Administrativo Web | Plataforma corporativa voltada para gestão operacional e organização de equipes internas, controle de processos e centralização de informações administrativas. | Angular, TypeScript, REST API |
+| TSP - Termo de solicitação primária | Aplicação desenvolvida para gerenciamento e acompanhamento de solicitações internas entre equipes, com fluxo estruturado de demandas e integração de sistemas.|  Angular, Spring Boot, PostgresSql |
 | ViralLinks | Plataforma web desenvolvida em WordPress com arquitetura modular baseada em MVC, integração com APIs do WhatsApp, Telegram, Discord e Facebook, sistema de notificações push, PWA e gerenciamento de links. | PHP, JavaScript, MySQL |
 
 ---
