@@ -1,6 +1,6 @@
 # Diego Soares
 
-### Full Stack Software Engineer
+### Full Stack Software Engineer focused on Enterprise Applications and Web Architecture
 
 📍 Fortaleza, Ceará - Brasil
 
