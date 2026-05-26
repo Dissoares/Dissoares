@@ -85,14 +85,12 @@ Objetivos profissionais:
 <p>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dissoares&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## Linguagens Mais Utilizadas
 
 <p>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dissoares&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## Projetos em Destaque
 
@@ -107,5 +105,5 @@ Objetivos profissionais:
 ## Contato
 
 * LinkedIn: [www.linkedin.com/in/diegosoaresdev](http://www.linkedin.com/in/diegosoaresdev)
-* Email: [contato@seudominio.com](mailto:contato@seudominio.com)
-
+* Email: [contato@seudominio.com](mailto:diegosoaresyt@gmail.com)
+* Insta: [mailto:diegosoaresyt@gmail.com](https://www.instagram.com/di.soares._/)
