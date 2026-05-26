@@ -74,38 +74,24 @@ Atuação tanto no frontend quanto no backend, trabalhando com aplicações mode
 
 ---
 
-## Atualmente Estudando
+Objetivos profissionais:
 
-* Arquitetura de Software
-* Backend avançado com Java/Spring
-* Cloud e AWS
-* Inglês técnico para ambiente internacional
-
----
-
-## Objetivos Profissionais
-
-* Evoluir continuamente como engenheiro de software
-* Fortalecer conhecimentos em arquitetura e sistemas distribuídos
-* Atuar em projetos de alta escala e alta complexidade
-* Buscar oportunidades internacionais no futuro
+* Melhorar inglês para oportunidades internacionais
 
 ---
 
 ## Estatísticas GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dissoares&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dissoares&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## Linguagens Mais Utilizadas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissoares&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dissoares&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## Projetos em Destaque
