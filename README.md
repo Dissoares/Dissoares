@@ -57,7 +57,7 @@ Experiência consistente tanto no frontend quanto no backend, conduzindo projeto
 | ------- | --------- | ----- |
 | [GEstack — Sistema Administrativo Web](https://github.com/Dissoares/gestack) | Plataforma corporativa para gestão operacional, organização de equipes, controle de processos e centralização de informações administrativas. | Angular · TypeScript · REST API |
 | [TSP — Termo de Solicitação Primária](https://github.com/Dissoares/tsp) | Aplicação para gerenciamento e acompanhamento de solicitações internas entre equipes, com fluxo estruturado de demandas e integração de sistemas. | Angular · Spring Boot · PostgreSQL |
-| ViralLinks | Plataforma web desenvolvida em WordPress com arquitetura modular baseada em MVC, integração com APIs do WhatsApp, Telegram, Discord e Facebook, sistema de notificações push, PWA e gerenciamento de links. | PHP, JavaScript, MySQL |
+| [ViralLinks](https://github.com/Dissoares/ViralLinks) | Plataforma de listagem grupos com Dashboard, login social (Google e Telegram), sistema de avaliações, sistema de anúncios e integração com APIs do WooCommerce, WhatsApp, Telegram, Discord e Facebook, sistema de notificações push, PWA e gerenciamento de links premuim. | PHP, JavaScript, MySQL WordPress|
 
 ---
 
