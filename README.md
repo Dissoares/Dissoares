@@ -1,6 +1,6 @@
 # Diego Soares
 
-### Engenheiro de Software Full Stack · Aplicações Corporativas & Arquitetura Web
+### Desenvolvedor de Software sênior Full Stack · Aplicações Corporativas & Arquitetura Web
 
 📍 Fortaleza, Ceará — Brasil &nbsp;|&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
