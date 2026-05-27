@@ -3,7 +3,7 @@
 ### Engenheiro de Software Full Stack · Aplicações Corporativas & Arquitetura Web
 
 📍 Fortaleza, Ceará — Brasil &nbsp;|&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dissoares)
 
 ---
@@ -37,7 +37,8 @@ Experiência consistente tanto no frontend quanto no backend, conduzindo projeto
 
 ### Banco de Dados & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver,git,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
 ---
