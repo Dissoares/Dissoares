@@ -64,7 +64,7 @@ Experiência consistente tanto no frontend quanto no backend, conduzindo projeto
 
 ## Contato
 
-* LinkedIn: https://www.linkedin.com/in/diegosoaresdev
+* LinkedIn: [https://www.linkedin.com/in/dissoares/](https://www.linkedin.com/in/dissoares/)
 * Email: [diegosoaresyt@gmail.com](mailto:diegosoaresyt@gmail.com)
 * Instagram: https://www.instagram.com/di.soares._/
 
