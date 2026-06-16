@@ -1,6 +1,6 @@
 # Diego Soares
 
-### Desenvolvedor de Software sênior Full Stack 
+### Desenvolvedor de Software Full Stack 
 
 📍 Fortaleza, Ceará — Brasil &nbsp;|&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Engenheiro de Software Full Stack com mais de 10 anos de experiência na construção, manutenção e evolução de sistemas corporativos web. Atuo com aplicações de alta demanda operacional, integração entre sistemas, APIs REST e modernização de sistemas legados — sempre com foco em estabilidade, escalabilidade e qualidade de código.
+Desenvolvedor com mais de 10 anos de experiência na construção, manutenção e evolução de sistemas corporativos web. Atuo com aplicações de alta demanda operacional, integração entre sistemas, APIs REST e modernização de sistemas legados — sempre com foco em estabilidade, escalabilidade e qualidade de código.
 
 Experiência consistente tanto no frontend quanto no backend, conduzindo projetos do design de arquitetura até a entrega em produção.
 
