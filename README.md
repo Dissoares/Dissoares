@@ -10,9 +10,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor com mais de 10 anos de experiência na construção, manutenção e evolução de sistemas corporativos web. Atuo com aplicações de alta demanda operacional, integração entre sistemas, APIs REST e modernização de sistemas legados — sempre com foco em estabilidade, escalabilidade e qualidade de código.
-
-Experiência consistente tanto no frontend quanto no backend, conduzindo projetos do design de arquitetura até a entrega em produção.
+Desenvolvedor com mais de 10 anos de experiência na construção, manutenção e evolução de sistemas corporativos web. Atuo com aplicações de alta demanda operacional, integração entre sistemas, APIs REST e modernização de sistemas legados sempre priorizando e otimização e qualidade do código.
 
 ---
 
