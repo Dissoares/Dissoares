@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Diego%20Soares&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer&descSize=16&descAlignY=60&descColor=8892b0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Diego%20Soares&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descSize=16&descAlignY=60&descColor=8892b0" width="100%" />
 
 </div>
-
+h
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
-[![Portfolio](https://img.shields.io/badge/CodeTude-000000?style=flat-square&logo=About.me&logoColor=white)](https://codetude.dev)
+[![Portfolio](https://img.shields.io/badge/CodeTude-000000?style=flat-square&logo=About.me&logoColor=white)](https://codetude.dev
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diegosoaresyt@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=Dissoares&style=flat-square&color=0a66c2&label=Visitas)
 
@@ -17,7 +17,7 @@
 
 ## Sobre Mim
 
-Engenheiro de Software Full Stack Senior com +10 anos de experiencia construindo e mantendo sistemas que realmente vao para producao e ficam de pe.
+Full Stack Software Developer com +10 anos de experiencia construindo e mantendo sistemas que realmente vao para producao e ficam de pe.
 
 Atualmente na **Secretaria de Saude do Estado do Ceara (SESA)**, desenvolvendo solucoes de alto impacto para a saude publica digital - incluindo plataformas para gestao operacional, integracao entre sistemas governamentais e modernizacao de sistemas legados.
 
