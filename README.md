@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
-[![Portfolio](https://img.shields.io/badge/CodeTude-000000?style=flat-square&logo=About.me&logoColor=white)](https://codetude.dev
+[![Portfolio](https://img.shields.io/badge/CodeTude-000000?style=flat-square&logo=About.me&logoColor=white)](https://codetude.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diegosoaresyt@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=Dissoares&style=flat-square&color=0a66c2&label=Visitas)
 
@@ -15,24 +15,24 @@
 
 ---
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Full Stack Software Developer com +10 anos de experiencia construindo e mantendo sistemas que realmente vao para producao e ficam de pe.
+Full Stack Software Developer com **+10 anos de experiência** construindo e mantendo sistemas que realmente vão para produção e ficam de pé.
 
-Atualmente na **Secretaria de Saude do Estado do Ceara (SESA)**, desenvolvendo solucoes de alto impacto para a saude publica digital - incluindo plataformas para gestao operacional, integracao entre sistemas governamentais e modernizacao de sistemas legados.
+Atualmente na **Secretaria de Saúde do Estado do Ceará (SESA)**, desenvolvendo soluções de alto impacto para a saúde pública digital — incluindo plataformas para gestão operacional, integração entre sistemas governamentais e modernização de sistemas legados.
 
-Especialista em **Angular, Java Spring Boot e .NET**, com forte dominio em **Clean Architecture**, APIs REST e desenvolvimento de aplicacoes de alta demanda. Empreendedor paralelo: fundador da **[CodeTude](https://codetude.dev)**, empresa de desenvolvimento de software.
+Especialista em **Angular, Java Spring Boot e .NET**, com forte domínio em **Clean Architecture**, APIs REST e desenvolvimento de aplicações de alta demanda. Empreendedor paralelo: fundador da **[CodeTude](https://codetude.dev)**, empresa de desenvolvimento de software.
 
 ```text
-Arquitetura limpa e codigo que dura
-Alta performance em sistemas corporativos
-Integracoes complexas entre APIs e sistemas
-Modernizacao de sistemas legados
+🏗️  Arquitetura limpa e código que dura
+⚡  Alta performance em sistemas corporativos
+🔗  Integrações complexas entre APIs e sistemas
+🚀  Modernização de sistemas legados
 ```
 
 ---
 
-## Stack Tecnica
+## 🛠️ Stack Técnica
 
 **Frontend**
 
@@ -49,14 +49,14 @@ Modernizacao de sistemas legados
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Banco de Dados e DevOps**
+**Banco de Dados & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Arquitetura e Praticas**
+**Arquitetura & Práticas**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222?style=flat-square&logo=buffer&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -64,18 +64,18 @@ Modernizacao de sistemas legados
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-| Projeto | Descricao | Stack |
-|--------|-----------|-------|
-| GEstack - Gestao Operacional | Plataforma corporativa para gestao de equipes e processos em alta demanda | Angular, TypeScript, REST API |
-| TSP - Termo de Solicitacao Primaria | Sistema de gerenciamento de solicitacoes internas com fluxo estruturado | Angular, Spring Boot, PostgreSQL |
-| [ViralLinks](https://viralinks.online) | Plataforma com Dashboard, login social, avaliacoes, anuncios e integracao multi-canal. PWA e push. | PHP, JavaScript, MySQL |
-| [CodeTude](https://codetude.dev) | Empresa propria de desenvolvimento de software - UX/UI, web e SaaS | Angular, Spring Boot, .NET, PHP |
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| 🏥 **GEstack — Gestão Operacional** | Plataforma corporativa para gestão de equipes e processos em alta demanda | Angular, TypeScript, REST API |
+| 📋 **TSP — Termo de Solicitação Primária** | Sistema de gerenciamento de solicitações internas com fluxo estruturado | Angular, Spring Boot, PostgreSQL |
+| 🔗 **[ViralLinks](https://viralinks.online)** | Plataforma com Dashboard, login social, avaliações, anúncios e integrações (WhatsApp, Telegram, Discord). PWA e push. | PHP, JavaScript, MySQL |
+| 💼 **[CodeTude](https://codetude.dev)** | Empresa própria de serviços de software — UX/UI até deploy, soluções web e SaaS | Angular, Spring Boot, .NET, PHP |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -92,24 +92,24 @@ Modernizacao de sistemas legados
 
 ---
 
-## Formacao
+## 🎓 Formação
 
-- Graduacao em Analise e Desenvolvimento de Sistemas - Faculdade CDL (2019-2023)
-- - Pos-graduacao em Engenharia de Software
- 
-  - ---
+- 🎓 **Graduação** em Análise e Desenvolvimento de Sistemas — Faculdade CDL (2019–2023)
+- 📚 **Pós-graduação** em Engenharia de Software
 
-  ## Fale Comigo
+---
 
-  <div align="center">
+## 💬 Fale Comigo
 
-  Se voce precisa de um sistema que funciona de verdade - que escala, que aguenta, e que vai continuar rodando daqui a 5 anos - bora conversar.
+<div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
-  [![CodeTude](https://img.shields.io/badge/Ver_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codetude.dev)
+Se você precisa de um sistema que funciona de verdade — que escala, que aguenta, e que vai continuar rodando daqui a 5 anos — bora conversar.
 
-  </div>
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dissoares/)
+[![CodeTude](https://img.shields.io/badge/Ver_Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codetude.dev)
 
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
-  </div>div>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
+</div>
