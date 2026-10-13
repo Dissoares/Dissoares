@@ -19,8 +19,6 @@
 
 Full Stack Software Developer com **+10 anos de experiência** construindo e mantendo sistemas que realmente vão para produção e ficam de pé.
 
-Atualmente na **Secretaria de Saúde do Estado do Ceará (SESA)**, desenvolvendo soluções de alto impacto para a saúde pública digital — incluindo plataformas para gestão operacional, integração entre sistemas governamentais e modernização de sistemas legados.
-
 Especialista em **Angular, Java Spring Boot e .NET**, com forte domínio em **Clean Architecture**, APIs REST e desenvolvimento de aplicações de alta demanda. Empreendedor paralelo: fundador da **[CodeTude](https://codetude.dev)**, empresa de desenvolvimento de software.
 
 ```text
